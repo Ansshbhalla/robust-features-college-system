@@ -1,1 +1,3 @@
-# robust-features-college-system
+# College-Management-System
+minor project
+
